@@ -43,4 +43,4 @@ Also, no transaction details will appear in the destination wallet address.
 
  ![metamask activity](https://siasky.net/VAAJZImmqf15RxJJp3nbgSrKUPaFpljsh6pQyvpxZavdIw)
  
-As a good practice, it is recommended to destroy the note data once you have successfully withdrawn your funds.
+As a good practice, it is recommended to save the note data for future use, once you have successfully withdrawn your funds. In our next article, we will explain how you can use this note data to verify the transaction compliance record.
